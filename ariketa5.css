@@ -1,0 +1,26 @@
+.absDiv{
+width: 600px; 
+height: 200px; 
+background-color: red;
+margin:auto
+}
+.relDiv{
+width: 75vw; 
+height: 25vh; 
+background-color: rgb(0, 204, 255);
+margin:auto
+}
+body{
+    width: 900px;
+    height: 800px;
+    color: green;
+}
+.p1{
+  font-size: 40px;
+}
+.p2{
+    font-size: 2em;
+}
+.p3{
+    font-size: 5vh;
+}
